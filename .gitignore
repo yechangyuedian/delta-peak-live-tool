@@ -1,0 +1,30 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# IDE 配置
+.idea/
+.vscode/
+
+# 打包产物
+dist/
+build/
+*.spec
+*.exe
+
+# 运行时生成的文件
+config.ini
+delta_rank_cache.json
+obs_rank_display.txt
+obs_rank.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
